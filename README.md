@@ -1,4 +1,4 @@
-# logistic-regression-from-scratch
+# logistic-regression-from-scratch-breastcancer-diagnosis
 Malignancy of Breast Cancer Classification
 
 Based off of logistic regression model created by Martín Pellarolo @martinpella.
